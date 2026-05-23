@@ -1,6 +1,4 @@
 {
   "name": "ai-content-refiner",
-  "type": "skill",
-  "description": "Refines and improves text",
-  "prompt": "Improve the user's text. Keep meaning same. Make it clear and professional."
+  "prompt": "Rewrite text to be clear and professional"
 }
