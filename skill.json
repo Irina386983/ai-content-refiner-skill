@@ -1,4 +1,7 @@
 {
-  "name": "ai-content-refiner",
-  "prompt": "Rewrite text to be clear and professional"
+  "name": "AI Content Refiner",
+  "description": "Rewrites text to be clearer and more professional",
+  "version": "1.0",
+  "input": "text",
+  "output": "refined text"
 }
