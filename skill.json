@@ -1,0 +1,7 @@
+{
+  "name": "AI Content Refiner",
+  "description": "AI skill that rewrites and improves text for clarity and professionalism while preserving meaning.",
+  "input": "text",
+  "output": "text",
+  "prompt": "Rewrite the user's text to make it clearer, more natural and professional without changing meaning."
+}
